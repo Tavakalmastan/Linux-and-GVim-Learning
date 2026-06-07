@@ -1,2 +1,9 @@
-# GVim-Learning-Journey
-Documenting my daily GVim learning journey from beginner to advanced level with notes, commands, shortcuts, exercises, and projects.
+# GVim Learning Journey
+
+Welcome to my GVim learning repository.
+
+This repository documents my journey from beginner to advanced level in GVim.
+
+## Author
+
+Tavakalmastan
