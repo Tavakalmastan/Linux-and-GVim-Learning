@@ -7,7 +7,7 @@ This repository documents my journey from beginner to advanced level in GVim.
 ## Progress Tracker
 
 - [x] Day 01 - Basics, Navigation, Editing Commands
-- [ ] Day 02 - 
+- [x] Day 02 - Visual Mode, Vimrc, Tabs and Macros
 - [ ] Day 03
 - [ ] Day 04
 - [ ] Day 05
