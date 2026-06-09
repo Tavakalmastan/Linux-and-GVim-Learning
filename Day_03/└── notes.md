@@ -340,89 +340,7 @@ $ ls
 dir2  dir3
 
 Tavakalmastan@Mastan /cygdrive/E/GVIM_practice/pd/PD_training/linux/practice
-$ cat > file1.txt
-Day 01
-Insert Mode
-Normal Mode
-Navigation Commands
-Search and Replace
-Copy and Paste
-Split Windows
-Folding
-Save and Exit Commands
-Day 02
-Visual Mode
-Visual Line Mode
-Visual Block Mode
-Text Selection Techniques
-Vimrc Configuration
-GVim Customization
-Line Numbers and Editor Options
-Search Highlighting
-Auto Indentation
-Tab Management
-Creating and Closing Tabs
-Switching Between Tabs
-Macros (Recording Mode)
-Macro Execution and Reuse
-Multi Cursor Editing
-Advanced Editing Features
-Day 03
-Bash Shell
-Linux Command Syntax
-pwd Command
-ls Command
-Linux File Types
-cd Command
-touch Command
-mkdir Command
-rm and rmdir Commands
-cp Command
-mv Command
-Input/Output Redirection
-
-
-Tavakalmastan@Mastan /cygdrive/E/GVIM_practice/pd/PD_training/linux/practice
 $ cat  file1.txt
-Day 01
-Insert Mode
-Normal Mode
-Navigation Commands
-Search and Replace
-Copy and Paste
-Split Windows
-Folding
-Save and Exit Commands
-Day 02
-Visual Mode
-Visual Line Mode
-Visual Block Mode
-Text Selection Techniques
-Vimrc Configuration
-GVim Customization
-Line Numbers and Editor Options
-Search Highlighting
-Auto Indentation
-Tab Management
-Creating and Closing Tabs
-Switching Between Tabs
-Macros (Recording Mode)
-Macro Execution and Reuse
-Multi Cursor Editing
-Advanced Editing Features
-Day 03
-Bash Shell
-Linux Command Syntax
-pwd Command
-ls Command
-Linux File Types
-cd Command
-touch Command
-mkdir Command
-rm and rmdir Commands
-cp Command
-mv Command
-Input/Output Redirection
 
 Tavakalmastan@Mastan /cygdrive/E/GVIM_practice/pd/PD_training/linux/practice
 $ less 4 file1.txt
@@ -450,51 +368,6 @@ Tavakalmastan@Mastan /cygdrive/E/GVIM_practice/pd/PD_training/linux/practice
 $ less 2 file1.txt
 2: No such file or directory
 Press RETURN to continue
-
-Tavakalmastan@Mastan /cygdrive/E/GVIM_practice/pd/PD_training/linux/practice
-$ head 5 file1.txt
-head: cannot open '5' for reading: No such file or directory
-==> file1.txt <==
-Day 01
-Insert Mode
-Normal Mode
-Navigation Commands
-Search and Replace
-Copy and Paste
-Split Windows
-Folding
-Save and Exit Commands
-Day 02
-
-Tavakalmastan@Mastan /cygdrive/E/GVIM_practice/pd/PD_training/linux/practice
-$ head 2 file1.txt
-head: cannot open '2' for reading: No such file or directory
-==> file1.txt <==
-Day 01
-Insert Mode
-Normal Mode
-Navigation Commands
-Search and Replace
-Copy and Paste
-Split Windows
-Folding
-Save and Exit Commands
-Day 02
-
-Tavakalmastan@Mastan /cygdrive/E/GVIM_practice/pd/PD_training/linux/practice
-$ head file1.txt 1
-==> file1.txt <==
-Day 01
-Insert Mode
-Normal Mode
-Navigation Commands
-Search and Replace
-Copy and Paste
-Split Windows
-Folding
-Save and Exit Commands
-Day 02
-head: cannot open '1' for reading: No such file or directory
 
 Tavakalmastan@Mastan /cygdrive/E/GVIM_practice/pd/PD_training/linux/practice
 $ head file1.txt -5
