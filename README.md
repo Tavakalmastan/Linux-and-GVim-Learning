@@ -8,7 +8,7 @@ This repository documents my journey from beginner to advanced level in GVim.
 
 - [x] Day 01 - Basics, Navigation, Editing Commands
 - [x] Day 02 - Visual Mode, Vimrc, Tabs and Macros
-- [x] Day 03 - Linux Fundamentals and File Management
+- [x] Day 03 - Linux Fundamentals and Practical Commands
 - [ ] Day 04
 - [ ] Day 05
 
