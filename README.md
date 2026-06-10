@@ -9,7 +9,7 @@ This repository documents my journey from beginner to advanced level in GVim.
 - [x] Day 01 - Basics, Navigation, Editing Commands
 - [x] Day 02 - Visual Mode, Vimrc, Tabs and Macros
 - [x] Day 03 - Linux Fundamentals and Practical Commands
-- [ ] Day 04
+- [x] Day 04 - File Viewing Commands (cat, less, more, head, tail)
 - [ ] Day 05
 
 ## Topics Covered
@@ -58,6 +58,15 @@ This repository documents my journey from beginner to advanced level in GVim.
 - cp Command
 - mv Command
 - Input/Output Redirection
+
+### Day 04
+
+- cat Command
+- less Command
+- more Command
+- head Command
+- tail Command
+- File Viewing and Navigation
   
 ## Author
 
