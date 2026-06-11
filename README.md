@@ -10,7 +10,7 @@ This repository documents my journey from beginner to advanced level in GVim.
 - [x] Day 02 - Visual Mode, Vimrc, Tabs and Macros
 - [x] Day 03 - Linux Fundamentals and Practical Commands
 - [x] Day 04 - File Viewing Commands (cat, less, more, head, tail)
-- [ ] Day 05
+- [x] Day 05 - find, diff, cmp, comm and wc Commands
 
 ## Topics Covered
 
