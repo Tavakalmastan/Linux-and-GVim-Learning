@@ -67,6 +67,14 @@ This repository documents my journey from beginner to advanced level in GVim.
 - head Command
 - tail Command
 - File Viewing and Navigation
+
+### Day 05
+
+- find Command
+- diff Command
+- cmp Command
+- comm Command
+- wc Command
   
 ## Author
 
