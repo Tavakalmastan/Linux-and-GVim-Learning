@@ -1,8 +1,8 @@
-# GVim Learning Journey
+# Linux and GVim Learning Journey
 
-Welcome to my GVim learning repository.
+Welcome to my Linux and GVim learning repository.
 
-This repository documents my journey from beginner to advanced level in GVim.
+This repository documents my learning journey covering GVim, Linux commands, shell usage, file management, permissions, and practical exercises.
 
 ## Progress Tracker
 
