@@ -168,3 +168,64 @@ tail -f logfile.txt
 - Understood when to use cat, less, and more.
 - Practiced viewing the first and last portions of files.
 - Learned basic navigation while viewing large files.
+
+---
+
+## Hands-on Practice
+
+### File Viewing Commands
+
+```bash
+less file.txt
+more file.txt
+cat file.txt
+cat -n file.txt
+```
+
+### Head and Tail Commands
+
+```bash
+head sample.txt
+head -n 2 sample.txt
+head -2 sample.txt
+
+tail -2 sample.txt
+tail -n 2 sample.txt
+```
+
+### Extracting Specific Lines Using Pipes
+
+```bash
+tail -n +2 file.txt | head -n 2
+tail -n +4 file.txt | head -n 4
+tail -n +6 file.txt | head -n 8
+
+head -n +4 file.txt | tail -n 1
+head -n +7 file.txt | tail -n 1
+head -n +9 file.txt | tail -n 1
+```
+
+### Error Handling Practice
+
+```bash
+more filee.txt
+cat file.
+head sample.txt 2
+head -2..4 sample.txt
+head -[2..4] sample.txt
+```
+
+Observed and understood common errors:
+
+* No such file or directory
+* Invalid option
+* Unknown option
+
+### Practical Learning Outcomes
+
+* Practiced file viewing using `cat`, `more`, and `less`.
+* Displayed line numbers using `cat -n`.
+* Retrieved specific portions of files using `head` and `tail`.
+* Combined commands using pipes (`|`) to extract selected lines.
+* Learned the correct syntax for command options.
+* Improved troubleshooting skills through error analysis.
