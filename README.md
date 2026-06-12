@@ -11,6 +11,11 @@ This repository documents my journey from beginner to advanced level in GVim.
 - [x] Day 03 - Linux Fundamentals and Practical Commands
 - [x] Day 04 - File Viewing Commands (cat, less, more, head, tail)
 - [x] Day 05 - find, diff, cmp, comm and wc Commands
+- [x] Day 06 - Advanced find Command and Linux File Permissions
+- [ ] Day 07
+- [ ] Day 08
+- [ ] Day 09
+- [ ] Day 10
 
 ## Topics Covered
 
@@ -75,6 +80,19 @@ This repository documents my journey from beginner to advanced level in GVim.
 - cmp Command
 - comm Command
 - wc Command
+
+### Day 06
+
+- find Command (Advanced Usage)
+- File Search by Name and Pattern
+- File and Directory Filtering
+- Time-Based Search
+- Empty File Detection
+- Linux File Permissions
+- chmod Command
+- Symbolic Permissions
+- Numeric Permissions
+- User, Group and Others Permissions
   
 ## Author
 
