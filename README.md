@@ -12,7 +12,7 @@ This repository documents my learning journey covering GVim, Linux commands, she
 - [x] Day 04 - File Viewing Commands (cat, less, more, head, tail)
 - [x] Day 05 - find, diff, cmp, comm and wc Commands
 - [x] Day 06 - Advanced find Command and Linux File Permissions
-- [ ] Day 07
+- [x] Day 07 - Environment Variables, PS1, grep, egrep, fgrep, pushd and popd
 - [ ] Day 08
 - [ ] Day 09
 - [ ] Day 10
@@ -93,6 +93,18 @@ This repository documents my learning journey covering GVim, Linux commands, she
 - Symbolic Permissions
 - Numeric Permissions
 - User, Group and Others Permissions
+
+#### Day 07
+
+- Environment Variables
+- PS1 Prompt Customization
+- grep Command
+- egrep Command
+- fgrep Command
+- pushd Command
+- popd Command
+- dirs Command
+
   
 ## Author
 
