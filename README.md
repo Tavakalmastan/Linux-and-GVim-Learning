@@ -94,7 +94,7 @@ This repository documents my learning journey covering GVim, Linux commands, she
 - Numeric Permissions
 - User, Group and Others Permissions
 
-#### Day 07
+### Day 07
 
 - Environment Variables
 - PS1 Prompt Customization
@@ -105,7 +105,7 @@ This repository documents my learning journey covering GVim, Linux commands, she
 - popd Command
 - dirs Command
 
-  #### Day 08
+  ### Day 08
 
 - File Access Permissions
 - chmod
