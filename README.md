@@ -13,7 +13,7 @@ This repository documents my learning journey covering GVim, Linux commands, she
 - [x] Day 05 - find, diff, cmp, comm and wc Commands
 - [x] Day 06 - Advanced find Command and Linux File Permissions
 - [x] Day 07 - Environment Variables, PS1, grep, egrep, fgrep, pushd and popd
-- [ ] Day 08
+- [x] Day 08 - chmod, chown, chgrp, Pipes, tee, xargs and Regex
 - [ ] Day 09
 - [ ] Day 10
 
@@ -105,6 +105,16 @@ This repository documents my learning journey covering GVim, Linux commands, she
 - popd Command
 - dirs Command
 
+  #### Day 08
+
+- File Access Permissions
+- chmod
+- chown
+- chgrp
+- Pipes (|)
+- tee
+- xargs
+- Regular Expressions (Regex concepts)
   
 ## Author
 
