@@ -278,66 +278,6 @@ Key Learnings:
 
 ---
 
-### 9. grep, egrep and fgrep
-
-#### grep
-
-Global Regular Expression Print.
-
-Syntax:
-
-```bash
-grep [options] "pattern" filename
-```
-
-Examples:
-
-```bash
-grep "error" logfile.txt
-grep -ni "linux" file.txt
-```
-
-#### egrep
-
-Extended grep.
-
-Equivalent to:
-
-```bash
-grep -E
-```
-
-Examples:
-
-```bash
-egrep "cat|dog" file.txt
-egrep -ni "Move|to" file.txt
-```
-
-#### fgrep
-
-Fixed grep.
-
-Equivalent to:
-
-```bash
-grep -F
-```
-
-Examples:
-
-```bash
-fgrep "cat" file.txt
-fgrep "cat|dog" file.txt
-```
-
-Key Learnings:
-
-- grep supports basic regular expressions.
-- egrep supports extended regular expressions.
-- fgrep treats patterns literally.
-
----
 
 ## Commands Practiced
 
@@ -374,22 +314,6 @@ chgrp staff file.txt
 ---
 
 ## Hands-on Practice
-
-### grep and egrep Practice
-
-```bash
-grep -ni "Move" file.txt
-egrep -ni "Move" file.txt
-egrep -Eni "Move|to" file.txt
-```
-
-Observed:
-
-- Case-insensitive searching using -i.
-- Displayed line numbers using -n.
-- Used OR operator with egrep.
-
----
 
 ### tee Command Practice
 
@@ -519,6 +443,5 @@ Learned:
 - Learned command chaining using pipes.
 - Used tee for logging and output capture.
 - Practiced xargs for batch processing.
-- Learned Regular Expressions for pattern matching.
-- Understood differences between grep, egrep and fgrep.
+- Learned Regular Expression fundamentals and pattern matching concepts.
 - Practiced troubleshooting common command-line errors.
