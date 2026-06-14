@@ -96,25 +96,34 @@ This repository documents my learning journey covering GVim, Linux commands, she
 
 ### Day 07
 
-- Environment Variables
-- PS1 Prompt Customization
-- grep Command
-- egrep Command
-- fgrep Command
-- pushd Command
-- popd Command
-- dirs Command
+* Environment Variables
+* PS1 Prompt Customization
+* grep Command
+* egrep Command
+* fgrep Command
+* pushd Command
+* popd Command
+* Directory Stack Management
+* Basic Pattern Searching
+* Extended Pattern Matching
 
-  ### Day 08
+### Day 08
 
-- File Access Permissions
-- chmod
-- chown
-- chgrp
-- Pipes (|)
-- tee
-- xargs
-- Regular Expressions (Regex concepts)
+* File Access Permissions
+* Linux Permission Model
+* chmod Command
+* Symbolic Permissions
+* Numeric Permissions
+* chown Command
+* chgrp Command
+* Pipes ( | )
+* tee Command
+* xargs Command
+* Regular Expressions (Regex)
+* Regex Metacharacters
+* Batch File Processing
+* Command Chaining
+
   
 ## Author
 
