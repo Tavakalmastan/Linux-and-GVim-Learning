@@ -14,7 +14,7 @@ This repository documents my learning journey covering GVim, Linux commands, she
 - [x] Day 06 - Advanced find Command and Linux File Permissions
 - [x] Day 07 - Environment Variables, PS1, grep, egrep, fgrep, pushd and popd
 - [x] Day 08 - chmod, chown, chgrp, Pipes, tee, xargs and Regex
-- [ ] Day 09
+- [x] Day 09 - sed, awk, alias, tr, cut and Shell Scripting Basics
 - [ ] Day 10
 
 ## Topics Covered
@@ -123,6 +123,19 @@ This repository documents my learning journey covering GVim, Linux commands, she
 * Regex Metacharacters
 * Batch File Processing
 * Command Chaining
+
+### Day 09
+
+- sed Command
+- AWK Command
+- alias Command
+- Essential Linux Commands
+- .bashrc File
+- tr Command
+- cut Command
+- Introduction to Shell Scripting
+- Conditional Statements in Shell Scripting
+- Arithmetic Operations in Shell Script
 
   
 ## Author
