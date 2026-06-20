@@ -15,6 +15,7 @@ This repository documents my learning journey covering GVim, Linux commands, she
 - [x] Day 07 - Environment Variables, PS1, grep, egrep, fgrep, pushd and popd
 - [x] Day 08 - chmod, chown, chgrp, Pipes, tee, xargs and Regex
 - [x] Day 09 - sed, awk, alias, tr, cut and Shell Scripting Basics
+- [x] Assessment 01 - Linux & GVim Test
 - [ ] Day 10
 
 ## Topics Covered
