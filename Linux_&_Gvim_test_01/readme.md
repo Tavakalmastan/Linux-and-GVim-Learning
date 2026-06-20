@@ -1,50 +1,23 @@
 # Linux & GVim Test 01
 
 ## Overview
+Completed a 3-hour Linux Fundamentals and GVim assessment conducted by VLSIMINDS.
 
-This repository section contains my Linux and GVim assessment completed after learning Linux fundamentals and GVim basics.
-
-## Topics Covered
-
-- File and Directory Management
-- File Permissions and Ownership
+## Contents
+- Question Paper
+- Solved Answer Sheet
+- Practical Linux Commands
+- File Management
 - Process Management
+- Archiving and Compression
+- Networking Commands
 - Environment Variables
 - Redirection and Pipes
-- Text Processing Commands
-- Archive and Compression Utilities
-- Networking Commands
-- Linux Administration Basics
-- GVim Navigation and Editing
+- GVim Practice
 
-## Commands Practiced
+## Outcome
+Successfully completed the assessment by solving theoretical and practical Linux tasks.
 
-```bash
-ls
-pwd
-cd
-mkdir
-rmdir
-cp
-mv
-rm
-find
-grep
-head
-tail
-sort
-uniq
-wc
-chmod
-chown
-ps
-top
-kill
-tar
-gzip
-zip
-unzip
-awk
-sed
-export
-alias
+## Files
+- Question_Paper
+- Answer_Sheet
